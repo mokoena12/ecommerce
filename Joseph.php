@@ -309,7 +309,5 @@ we offer free delivery
   </div>
 <?php
 $conn->close(); ?>
-
-dljbsdsabusdbyubdsuabfsubfubdsfcuodisbfiuoewbfuibyusbfuybgit
 </body>
 </html>
